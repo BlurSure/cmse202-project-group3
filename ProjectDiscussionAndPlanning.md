@@ -10,6 +10,15 @@ Project Goals:
 - Collaborate effectively and learn as a group
 
 
-```python
+Project Roles :
+- Ethan : Take care of  the deadlines and make sure we are on track, be strict.
+- Bhavya : Keep track of overall structure and architecture of the files to help with the slides, make notes
+- Pranav : Make sure there no pending errors and unaccounted git changes
+- Jonathan : LEAD!!!
 
-```
+Short term goals as of Nov 1, 2023 :
+- Let Jonathan know about everything, set up first meeting by Nov 8
+- Get a very specific project goal ready in that meeting by Nov 8 
+- Get started with code/ gathering data after the meeting
+
+First Meeting : Nov 6
